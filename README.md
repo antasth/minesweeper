@@ -4,7 +4,7 @@
 
 ---
 
-[Deploy](https://antasth.github.io/Minesweeper/)
+[Deploy](https://antasth.github.io/minesweeper/)
 
 ---
 
